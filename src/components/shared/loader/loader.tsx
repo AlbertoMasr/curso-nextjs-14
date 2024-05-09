@@ -1,4 +1,4 @@
-import styles from './Loader.module.sass';
+import styles from './loader.module.sass';
 
 export const Loader = () => {
   return (
